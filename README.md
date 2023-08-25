@@ -20,3 +20,8 @@ To quit enter 5 and a goodbye message will be displayed.
 
 an invalid choice message will be displayed if you enter a number or index that has not been displayed e.g removing task no. 5 yet there are on three tasks.
 
+Some of the "key words" used in the application are; 
+'class':- This is a object constructor or a 'blueprint'
+'self':-
+'__init__()':- this is a built-in function
+'enumarate()':- this method adds a counter to an iterable and returns it in a form of enumerating object 
