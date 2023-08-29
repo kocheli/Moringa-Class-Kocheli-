@@ -25,3 +25,4 @@ Some of the "key words" used in the application are;
 'self':-
 '__init__()':- this is a built-in function
 'enumarate()':- this method adds a counter to an iterable and returns it in a form of enumerating object 
+# Projects
